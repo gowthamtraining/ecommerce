@@ -1,0 +1,199 @@
+@import url('https://fonts.cdnfonts.com/css/hk-groteks');
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.delivery{
+    width: 90%;
+    margin: 0 auto;
+}
+.delivery-content h1{
+    font-family: HK Grotesk;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 14px;
+    color: #666
+}
+.delivery-content{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.order,.pincode,.track-order,.offers{
+    display: flex;
+}
+.order{
+ justify-content: center;
+ align-items: center;
+
+}
+.order{
+    color: #666;
+    text-align: right;
+    font-family: HK Grotesk;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 18px; 
+}
+.pincode,.track-order,.offers{
+    padding: 12px 16px;
+    border-right: 1px solid black;
+    height: 18px;
+    align-items: center;
+    gap: 5px;
+}
+.nav-container{
+    background-color: #F5F5F5;
+    height: 42px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+}
+.icon{
+    color: rgba(0, 142, 204, 1); 
+    width: 18px;
+    height: 18px;
+}
+.pincode .pin{
+    color: #666;
+    font-family: HK Grotesk;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 18px;
+}
+.navbar{
+    border:0.1px solid #6666663f;
+}
+.nav-elements{
+    width: 90%;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 90px;
+}
+.nav-icons{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    justify-content: center;
+}
+.product-details{
+    display: flex;
+    gap: 10px;
+}
+.nav-search{
+    width: 507px;
+    height: 48px;
+    display: flex;
+    justify-content: space-between;
+    background-color: rgba(243, 249, 251, 1);
+    align-items: center;
+    border-radius: 10px;
+    padding: 15px 16px;
+}
+.searchicon{
+    position: absolute;
+}
+.nav-search input{
+    outline: none;
+    border: 0;
+    width: 20rem;
+    padding-left: 25px;
+    height: 20px;
+    background-color: transparent;
+    color: #666;
+    font-family: HK Grotesk;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 18px; 
+
+}
+.login,.cart{
+    display: flex;
+    align-items: center;
+    gap: 6px;
+}
+.login p,.cart p{
+    color: #666;
+    font-family: HK Grotesk;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 18px; 
+}
+.filter-items{
+    width: 90%;
+    margin: 0 auto;
+    height: 49px;
+    
+}
+.filter{
+    border-bottom: 1px solid #6666663f;
+}
+.filter-items ul{
+    display: flex;
+    list-style: none;
+    justify-content: center;
+    gap: 30px;
+    align-items: center;
+    height: 100%;
+}
+.filter-items button{
+    padding: 9px 14px;
+    background-color: #F3F9FB;
+    border-radius: 18px;
+    border: 0;
+}
+.filter-items li{
+    color: #666;
+    font-family: HK Grotesk;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 18px; 
+}
+@media only screen and (max-width:768px){
+    .product-details {
+        display: flex;
+        gap: 20px;
+    }
+    .nav-search {
+        width: 50%;
+        height: 44px;
+    }
+    .nav-search input {
+        width: 11rem;
+        height: 20px;
+    }
+    .login p, .cart p {
+        line-height: 17px;
+        max-width: 112px;
+    }
+    .mobile {
+        gap: 57px;
+    }
+    .mobile-containe {
+        width: 190px;
+        height: 188px;
+    }
+    .mobile_img {
+        height: calc(270px - 115px);
+        width: 190px;
+    }
+    .mobile_name{
+        font-size: 14px;
+    }
+    .Mobile_Image {
+        width: 460px;
+        height: 563px;
+    }
+    .product_details .p1{
+        font-size: 1rem !important;
+    }
+}

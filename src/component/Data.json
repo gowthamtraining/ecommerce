@@ -1,0 +1,137 @@
+{
+    "data": [
+        {
+            "name": "Galaxy S22 Ultra",
+            "price": "₹32999",
+            "url": "/images/image 3.png",
+            "type": "samsung",
+            "search":"galaxys22ultra",
+            "rating": "4.5",
+            "reviews": [
+                { "id": 1, "user": "Gowtham", "comment": "Great product", "rating": 5 },
+                { "id": 2, "user": "Venkatesh", "comment": "Good quality.", "rating": 4 }
+              ]
+
+        },
+        {
+            "name": "Galaxy M13 (4GB | 64 GB )",
+            "price": "₹10499",
+            "url": "/images/image 3 (1).png",
+            "type": "samsung",
+            "search":"galaxym13",
+            "reviews": [
+                { "id": 1, "user": "Gowtham", "comment": "Great product", "rating": 5 },
+                { "id": 2, "user": "Venkatesh", "comment": "Bad quality.", "rating": 4 }
+              ],
+              "rating": "3.5"
+        },
+        {
+            "name": "Galaxy M33 (4GB | 64 GB )",
+            "price": "₹16999",
+            "url": "/images/image 3 (2).png",
+            "type": "samsung",
+            "search":"galaxym33",
+            "reviews": [
+                { "id": 1, "user": "Gowtham", "comment": "Great product", "rating": 5 },
+                { "id": 2, "user": "Venkatesh", "comment": "Bad quality.", "rating": 4 }
+              ],
+              "rating": "4.5"
+        },
+        {
+            "name": "Galaxy M53 (4GB | 64 GB )",
+            "price": "₹31999",
+            "url":"/images/image 3 (3).png",
+            "type": "samsung",
+            "search":"galaxym53",
+            "reviews": [
+                { "id": 1, "user": "Gowtham", "comment": "Bad product", "rating": 2 },
+                { "id": 2, "user": "Venkatesh", "comment": "Bad quality.", "rating": 1 }
+              ],
+              "rating": "1.5"
+        },
+        {
+            "name": "Galaxy S22 Ultra",
+            "price": "₹67999",
+            "url": "/images/image 3 (4).png",
+            "type": "samsung",
+            "search":"galaxys22",
+            "reviews": [
+                { "id": 1, "user": "Gowtham", "comment": "Great product", "rating": 5 },
+                { "id": 2, "user": "Venkatesh", "comment": "Bad quality.", "rating": 2 }
+              ],
+              "rating": "3.5"
+        },
+        {
+            "name": "Apple iPhone 13 (128GB) - Starlight",
+            "price": "₹56,999",
+            "url": "/images/img1.jpg",
+            "type": "iphone",
+            "search":"iphone13",
+            "reviews": [
+                { "id": 1, "user": "Gowtham", "comment": "Great product", "rating": 5 },
+                { "id": 2, "user": "Venkatesh", "comment": "Good quality.", "rating": 4 }
+              ],
+              "rating": "2.5"
+        },
+        {
+            "name": "Apple iPhone 14 Pro (128 GB) - Deep Purple",
+            "price": "₹1,19,999",
+            "url": "/images/img6.jpg",
+            "type": "iphone",
+            "search":"iphone14pro",
+            "reviews": [
+                { "id": 1, "user": "Gowtham", "comment": "Great product", "rating": 5 },
+                { "id": 2, "user": "Venkatesh", "comment": "Good quality.", "rating": 4 }
+              ],
+              "rating": "4.5"
+        },
+        {
+            "name": "Apple iPhone 14 Plus (128 GB) - Blue",
+            "price": "₹76,990",
+            "url": "/images/img2.jpg",
+            "type": "iphone",
+            "search":"iphone14plus",
+            "reviews": [
+                { "id": 1, "user": "Gowtham", "comment": "Great product", "rating": 5 },
+                { "id": 2, "user": "Venkatesh", "comment": "Good quality.", "rating": 4 }
+              ],
+              "rating": "4.5"
+        },
+        {
+            "name": "Oppo A78 5G",
+            "price": "₹18,999",
+            "url": "/images/img3.jpg",
+            "type": "oppo",
+            "search":"oppoa78",
+            "reviews": [
+                { "id": 1, "user": "Gowtham", "comment": "Great product", "rating": 5 },
+                { "id": 2, "user": "Venkatesh", "comment": "Good quality.", "rating": 4 }
+              ],
+              "rating": "4.5"
+        },
+        {
+            "name": "OPPO F23 5G",
+            "price": "₹24,999",
+            "url": "/images/img4.jpg",
+            "type": "oppo",
+            "search":"oppof235g",
+            "reviews": [
+                { "id": 1, "user": "Gowtham", "comment": "Great product", "rating": 5 },
+                { "id": 2, "user": "Venkatesh", "comment": "Good quality.", "rating": 4 }
+              ],
+              "rating": "4.5"
+        },
+        {
+            "name": "Oppo A17",
+            "price": "₹11,999",
+            "url": "/images/img5.jpg",
+            "type": "oppo",
+            "search":"oppoa17",
+            "reviews": [
+                { "id": 1, "user": "Gowtham", "comment": "Great product", "rating": 5 },
+                { "id": 2, "user": "Venkatesh", "comment": "Good quality.", "rating": 4 }
+              ],
+              "rating": "4.5"
+        }
+    ]
+}
